@@ -8,7 +8,7 @@ import {
     Box
 } from "@material-ui/core";
 import avatar from "../avatar.png";
-import { Height } from '@material-ui/icons';
+//import { Height } from '@material-ui/icons';
 //CSS STYLE
 const useStyles = makeStyles (theme => ({
     avatar: {
